@@ -1,0 +1,185 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  
+  <title>Client Intake: Child Support Enforcement</title>
+
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57087</md:content-id>
+  <md:title>Client Intake: Child Support Enforcement</md:title>
+  <md:abstract>This module is meant to supplement "Client Intake: Generally" by providing specific requirements relating to the intake and screening of potential new clients involved in child support enforcement cases.</md:abstract>
+  <md:uuid>f31a7910-c428-4b2b-b45a-b80b688d281d</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="import-auto-id1167591911598">
+
+      <title>PNC Intake - Child Support Enforcement</title><section id="import-auto-id1167592438338">
+
+        <title>Information Gathering – Child Support Enforcement</title><para id="eip-842">The unique nature of child support enforcement cases requires that a PNC provide enough information for the attorney to determine with reasonable certainty (a) the extent of any violations of the child support order, and (b) the viability of any defenses to the arrearages and contempt<footnote id="fn-defenses">For a partial list of defenses to the enforcement of a child support order, see section 157.008 of the Texas Family Code.</footnote>.</para><section id="import-auto-id1167592353932">
+
+          <title>Additional Information</title><para id="import-auto-id1167592371406">The PNC may or may not have access to this information at the time he or she contacts your office. If the PNC has the information, then record it on the intake form. If the PNC does not have the information, then emphasize to the PNC that it is very important that he or she bring that information to the initial consultation.
+          </para><list id="import-auto-id1167600381693" list-type="enumerated" number-style="arabic"><item><emphasis effect="italics"><term>CIN</term> and <term>PIN</term></emphasis>. The Texas Attorney General Child Support Division maintains a website that enables an <term>obligee</term>, obligor, or attorney to login and obtain detailed, court-admissible child support payment records. To use this web site, the attorney either needs to send a letter of representation to the <term>OAG</term> or have one of the parents' CIN/PIN combination. Because there can be considerable delay to the OAG processing a letter of representation, it is easier to use the client's PNC's CIN/PIN combination.
+           <newline/></item>
+
+           <item><emphasis effect="italics">Expected Amount of Arrearage.</emphasis> It's a good idea to find out how much the PNC thinks is owed in unpaid child support. The attorney will calculate the exact amount owed, but it is helpful to be able to compare the attorney's computed figure to the PNC's expectations.<newline/></item>
+
+<item><emphasis effect="italics">Type of Support.</emphasis> Court orders can contain many payment provisions that are to be treated as child support. Some of those payment provisions require that the payments be made through the <term>CSDU</term>. Payments made through the CSDU are usually limited to periodic payments of a fixed amount such as regular child support and reimbursement for medical insurance premiums. Other child support payments for which the amount would vary and for which the periodicity of the payment is irregular, such as reimbursement for the reasonable and necessary medical expenses that are incurred or paid on behalf of the child or payment for extracurricular activities, are not paid through the CSDU and therefore a court-admissible payment record will not be readily available. Dealing with arrearages on support payments that should be paid through the CSDU is simpler than dealing with arrearages on child support payments that are paid directly to the obligee and therefore the fees quoted by the attorney will be different.<newline/></item>
+
+<item><emphasis effect="italics">Whether there have been any direct payments.</emphasis> Some obligors do not pay their child support through the CSDU, even if it is a type of payment that should be paid through the CSDU and even if they have been ordered to do so. The attorney will need to know whether the direct payment of child support from the obligor to the obligee is an issue. Proving a payment history, particularly in defending against a child support enforcement suit, requires more effort and expenses.<newline/></item></list><para id="eip-102">With this information, the attorney will be able to estimate the complexity of the case and be prepared to quote a fee or set the amount of an initial deposit for legal fees.</para></section>
+
+        <section id="import-auto-id1167592373361">
+
+          <title>Documents for the PNC to Gather and Bring</title><section id="eip-725"><title>Obligee's Documents</title><para id="eip-520">
+The obligee, who is the person who would be alleging a violation of the child support order, must supply the following documents at the initial consultation. During the intake call, the person handling the call must provide this list to the PNC.
+</para><list id="eip-681" list-type="enumerated" number-style="arabic"><item><emphasis effect="italics">Court order(s) showing obligation that is to be enforced.</emphasis> If the case comes from a county where the attorney has access to court orders through the District Clerk's web site, the attorney can obtain copies of orders even if the client cannot find them. Even on counties that provide on-line access to court orders, an order might be marked as containing sensitive information<footnote id="fn010">Rule 21c of the Texas Rules of Civil Procedure</footnote> and thus be inaccessible. To be safe, ask the client to bring a copy of any order that is to be enforced<footnote id="fn001">Some counties, such as Harris and Dallas provide free public access to all unsealed case files. However, if the order contains sensitive data (see TRCP 21c), it will not be accessible on-line. Other counties like Collin and Tarrant provide fee-based services where subscribers can look up files for any case or, as in the case of Denton County, subscribers can only look up cases on which they are already attorney of record. Finally, there are a great number of lower-population counties that provide no ability to retrieve documents from their web site such as Rockwall and Hunt counties.</footnote>.
+            <newline/></item>
+
+            <item><emphasis effect="italics">Evidence of demand for payment.</emphasis> This does not apply to periodic child support paid through the CSDU. This applies to reimbursement for medical expenses, extracurricular activities, etc.
+            <newline/></item></list></section><section id="eip-512"><title>Obligor's Documents</title><para id="eip-600">
+The obligor must bring in several types of documents, depending on the defenses to be raised.
+</para><list id="eip-571" list-type="enumerated" number-style="arabic"><item><emphasis effect="italics">Court order(s) showing obligation that is to be enforced.</emphasis>See discussion above.<newline/></item>
+
+<item><emphasis effect="italics">Evidence of payment.</emphasis> If the obligor is raising the defense that he or she has actually made some or all of the child support payments that are being claimed as arrearages, then the obligor needs to bring copies of all documents, including email messages and text messages, that would tend to prove that he or she actually made payments, whether through the CSDU or directly to the obligee.<newline/></item>
+
+<item><emphasis effect="italics">Detailed evidence of income and assets during the period of nonpayment.</emphasis> If the obligor is raising the defense of being unable to make the payments as ordered, then he or she will need to show paystubs, W-2s and 1099s, tax returns, bank statements, and credit card statements covering the period of alleged nonpayment. The attorney will review these documents to determine whether the obligor was paying to the extent of his or her means. Also, if the obligor tried to borrow money to pay the child support, he or she needs to provide evidence of the loans or attempts to secure loans.<newline/></item></list></section></section>
+
+      </section>
+
+
+ 
+    </section>
+
+
+
+<section id="eip-750"><title>Exercises</title>
+<para id="p1">
+Get your Texas Family Code and Texas Rules of Civil Procedure out and ready. These exercises require that you start thinking through claims and defenses.<newline/>
+</para>
+
+<exercise id="eip-803" type="a"><title>Form Development</title><problem id="eip-492">
+  <para id="eip-609">Amend the intake form you developed in the previous module to accommodate the requirements of a child support enforcement case.
+  </para></problem></exercise>
+
+<exercise id="eip-795" type="a"><title>Form Development</title><problem id="eip-141">
+  <para id="eip-823">
+    Design an addendum to your child support enforcement intake form that includes the elements of the statutory affirmative defenses to a motion for enforcement of a child support order.
+  </para>
+</problem>
+
+<solution id="eip-589">
+  <para id="eip-348">Look at section 157.008 of the Texas Family Code and create questions to address each element of each defense listed. For example, to evaluate the viability of the defense that the children were living with the obligor, you would want to ask:
+  </para><list id="list-157-008-a"><item>Are the children now living with obligee or obligor?</item>
+    <item>If with obligor, then how long have the children been living with you?</item>
+    <item>If six more than a month, Why are they living with you?</item>
+    <item>How can you prove they have been living with you?</item>
+    <item>Did the other parent consent to the children living with you?</item>
+    <item>How can you prove that consent?</item>
+  </list></solution>
+</exercise><exercise id="eip-415" type="a"><title>Rules of Evidence</title><problem id="problem-2">
+  <list id="problem-2-prob" list-type="enumerated" number-style="upper-alpha"><item>What types of documentation might each party try to present at trial?<newline/></item>
+     <item>What evidentiary objections might you make at trial?<newline/></item>
+     <item>If you represent the obligor, how would you try to avoid or defeat those objections?</item>
+  </list></problem>
+
+<solution id="solution-2" type="a">
+  <list id="problem-2-sol" list-type="enumerated" number-style="upper-alpha"><item>The obligor may show up with paper that purports to prove the payment of certain expenses. The obligee may show up with paper purporting to prove notification of medical expenses and demands for payment.<newline/></item>
+     <item>Any piece of paper is subject to a hearsay objection. Any live testimony offered by a witness who did not actually see demands made or payments tendered with his or her own eyes is subject to a lack of personal knowledge objection.<newline/></item>
+     <item>The rules of evidence do not apply at mediation. If you know that your obligor client is going to face insurmountable hearsay objections at trial, then move the court for mediation and bring the otherwise inadmissible documents to mediation. If the case cannot be resolved at mediation, then obtain business records affidavits from the obligor's bank showing canceled checks or transfers to obligee. (NOTE: Bank subpoenas can be a very expensive undertaking.) If the obligee deposited checks or other instruments from obligor, demand copies of those from the obligee through discovery and rely on the self-authentication rules for admissibility. (This also shifts the financial burden of providing records to the obligee, but obligor's attorney must be willing to compel production.) Bring in live testimony from family members and friends who can truthfully testify that the obligor attempted to borrow money from them to pay the child support.</item>
+  </list></solution>
+</exercise><exercise id="eip-737" type="a"><title>What Were They Thinking?</title><problem id="eip-575">
+  <para id="eip-663">
+    Drawing from your own experience and common sense, write down three reasons that you think an obligor might offer to explain why he or she did not pay child support through the CSDU, even though he or she was ordered to do so.
+  </para>
+</problem>
+
+<solution id="eip-995">
+  <para id="eip-818">
+    This author most frequently hears obligors offer the following reasons for making direct payments of child support:
+  </para>
+  <list id="list0001">
+    <item>Obligor and obligee just thought it would be simpler this way. When this reason is given, it is often because, to the obligee, "simpler" meant, "I get my money faster," and to the obligor, "simpler" meant, "Now the AG won't be able to track me if I'm a few days late."<newline/></item>
+    <item>Obligee pleads with obligor to pay directly so that obligor will get the money faster--after all there are bills to pay.<newline/></item>
+    <item>Before the prior final order was entered, there were temporary orders. During the pendancy of the matter, under the temporary orders, obligor made direct payment and didn't think to switch to paying through the CSDU once a final order was signed.<newline/></item>
+    <item>Obligor prefers to avoid interaction with government agencies.<newline/></item>
+  </list>
+</solution></exercise><exercise id="eip-892" type="a"><title>Ethical Considerations</title><problem id="eip-982">
+  <para id="eip-19">Assume you represent the obligee and the obligee admits to you that he or she has received direct cash payments from the obligor. Further assume that there is no evidence of the direct payments other than the competing assertions of the parties and that the final decree provided that any informal payments from obligor to obligee are gifts in addition to child support, but not in satisfaction of child support. Are you willing to take the position at trial that there is no admissible evidence of those direct payments and, besides, the decree provides that direct payments are to be treated as gifts, not credited to child support?
+  </para></problem>
+
+<solution id="eip-541" type="a">
+  <para id="eip-639">This points out that if you represent the obligor, you should take the obligee's deposition--in the presence of the obligor--and ask about direct payments. People are surprisingly unlikely to lie when the lie would create an injustice AND the person who knows the truth is sitting right in front of them. If the obligor has admitted receiving direct cash payments, you cannot let the obligor testify to the contrary. <emphasis effect="smallcaps">Tex. R. Disciplinary Conduct</emphasis> 3.03(a)(5), 3.03(b), and 3.04;<emphasis effect="italics">see also,</emphasis> <emphasis effect="smallcaps">Texas Lawyer's Creed</emphasis> II.6, II.7, and III.15.
+  </para>
+</solution>
+</exercise></section></content>
+
+
+     
+
+<glossary id="module-glossary">
+	
+        <definition id="ag-def">
+
+  	  <term>AG</term>
+
+	  <meaning id="ag-meaning">Attorney General. Synonymous with OAG.</meaning>
+
+	</definition>
+
+
+        <definition id="cin-def">
+
+  	  <term>CIN</term>
+
+	  <meaning id="cin-meaning">Client Identification Number. A number assigned by the AG's office to uniquely identify each parent. Issued in conjunction with a PIN</meaning>
+
+	</definition>
+
+
+        <definition id="csdu-def">
+
+  	  <term>CSDU</term>
+
+	  <meaning id="csdu-meaning">Child Support Disbursement Unit. A department within the OAG that receives, tracks, and disburses child support payments. By statute, all regular child support payments must be made through the CSDU.</meaning>
+
+	</definition>
+
+
+        <definition id="oag-def">
+
+  	  <term>OAG</term>
+
+	  <meaning id="oag-meaning">Office of the Attorney General. Synonymous with AG.</meaning>
+
+	</definition>
+
+
+        <definition id="obligee-def">
+
+  	  <term>Obligee</term>
+
+	  <meaning id="obligee-meaning">Person who is to receive child support.</meaning>
+
+	</definition>
+
+
+        <definition id="obligor-def">
+
+  	  <term>Obligor</term>
+
+	  <meaning id="obligor-meaning">Person who is to pay child support.</meaning>
+
+	</definition>
+
+
+        <definition id="pin-def">
+
+  	  <term>PIN</term>
+
+	  <meaning id="pin-meaning">Personal Identification Number. A numeric password assigned by the AG's office in conjunction with a CIN allowing a parent to login to the AG's payment record web site.</meaning>
+
+	</definition>
+
+
+      </glossary>
+
+</document>
